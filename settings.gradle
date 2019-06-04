@@ -1,0 +1,1 @@
+include ':app', ':iteratorpattern', ':adapterpattern', ':template_method_pattern', ':factory_method_pattern', ':singleton_pattern', ':prototype_pattern', ':builder_pattern', ':abstract_factory_pattern', ':bridge_pattern', ':waterfalllistview'

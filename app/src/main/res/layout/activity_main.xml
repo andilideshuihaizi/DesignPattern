@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <Button
+        android:id="@+id/iteratorPattern"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="iterator_Pattern"/>
+
+    <Button
+        android:id="@+id/AdapterPattern"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Adapter_Pattern"/>
+
+    <Button
+        android:id="@+id/Template_Pattern"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Template_Pattern"/>
+
+    <Button
+        android:id="@+id/Factory_Pattern"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Factory_Pattern"/>
+
+    <Button
+        android:id="@+id/Singleton_Pattern"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Singleton_Pattern"/>
+
+    <Button
+        android:id="@+id/Prototype_Pattern"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Prototype_Pattern"/>
+
+
+    <Button
+        android:id="@+id/Builder_Pattern"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Builder_Pattern"/>
+
+    <Button
+        android:id="@+id/Abstract_Factory_Pattern"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Abstract_Factory_Pattern"/>
+
+    <Button
+        android:id="@+id/Bridge_Pattern"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bridge_Pattern"/>
+
+    <Button
+        android:id="@+id/gridview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="grid view"/>
+
+    <Button
+        android:id="@+id/mapview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="map view"/>
+
+    <Button
+        android:id="@+id/ui_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ui view"/>
+
+    <Button
+        android:id="@+id/waterFall_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="waterFall view"/>
+
+
+</LinearLayout>
